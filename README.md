@@ -1,6 +1,6 @@
 # Gitea.NET
 
-<img width="400px" src="Gitea_NET_Logo.svg" />
+![Image](https://raw.githubusercontent.com/xTamasu/Gitea.NET/main/Gitea_NET_Logo.svg)
 
 This project provides a .NET client for interacting with the Gitea API, generated from the Gitea OpenAPI definition.
 
