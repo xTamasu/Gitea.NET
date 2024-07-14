@@ -1,0 +1,3 @@
+additionalProperties:
+  packageName: Gitea.NET
+  targetFramework: netstandard2.0
